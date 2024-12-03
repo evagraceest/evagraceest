@@ -30,11 +30,11 @@
 
 ###
 
-<p align="center">A dedicated BSIT student on the exciting journey of transforming knowledge into innovation.</p>
+<p align="center">A dedicated IT Professional on the exciting journey of transforming knowledge into innovation.</p>
 
 ###
 
-<p align="left">- 🔭 I’m studying at Jose Rizal University<br>- 📚 I'm currently learning web development<br>-📫 How to reach me estrera.evalyngrace@gmail.com<br>-📄 Know about my experiences >> https://shorturl.at/dfGNU<br>-⚡ Fun fact I love cats</p>
+<p align="left">- 🔭 I graduated at Jose Rizal University<br>- 📚 I'm currently learning web development<br>-📫 How to reach me estrera.evalyngrace@gmail.com</p>
 
 ###
 
