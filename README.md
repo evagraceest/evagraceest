@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">- 🔭 I graduated at Jose Rizal University<br>- 📚 I'm currently learning web development<br>-📫 How to reach me estrera.evalyngrace@gmail.com</p>
+<p align="left">- 🔭 Graduated at Jose Rizal University<br>- 📚 I'm currently learning web development<br>-📫 How to reach me estrera.evalyngrace@gmail.com</p>
 
 ###
 
